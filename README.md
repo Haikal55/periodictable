@@ -2,8 +2,6 @@
 
 # Periodic Table with HTML, CSS, JS, and Tailwind CSS
 
-![Periodic Table Preview](link-to-image)
-
 This is a simple periodic table project created using HTML, CSS, JavaScript, and Tailwind CSS. The project aims to provide an interactive and responsive interface for exploring chemical elements in the periodic table.
 
 ## Key Features
